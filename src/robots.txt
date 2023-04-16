@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://fashion-pepper.nicolaspl.com/sitemap.xml
