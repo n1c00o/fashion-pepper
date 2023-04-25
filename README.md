@@ -7,14 +7,14 @@
 3. **Pure CSS** – Fashion Pepper is a simple stylesheet file written in pure CSS.
 4. **Customizable** – Colors are defined using CSS variables, therefore you can override them.
 
-More information can be found on the [website](https://fashion-pepper.nicolaspl.com/).
+More information can be found on the [website](https://fashion-pepper.nc0.fr/).
 
 ## Installation
 
 Simply add the following line to your HTML file:
 
 ```html
-<link rel="stylesheet" href="https://fashion-pepper.nicolaspl.com/css/fashion-pepper.css">
+<link rel="stylesheet" href="https://fashion-pepper.nc0.fr/css/fashion-pepper.css">
 ```
 
 You can then change the default colors by overriding the following CSS variables:
